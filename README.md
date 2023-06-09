@@ -1,4 +1,6 @@
-# Find the Star! (Github Edition)
+# Find the Star! (Github Edition) 
+
+Check it out here: [Find the Star!](https://sauram.github.io/findthestar/)
 
 ## About
 
@@ -29,4 +31,5 @@ React
 Tailwind CSS
 
 ## Is the solution live?
-Yes
+Yes 
+
