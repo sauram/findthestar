@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/findthestar/static/css/main.87abd855.css",
+    "main.js": "/findthestar/static/js/main.9037f721.js",
+    "static/media/background.jpg": "/findthestar/static/media/background.2368a783160cda89e418.jpg",
+    "index.html": "/findthestar/index.html",
+    "main.87abd855.css.map": "/findthestar/static/css/main.87abd855.css.map",
+    "main.9037f721.js.map": "/findthestar/static/js/main.9037f721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87abd855.css",
+    "static/js/main.9037f721.js"
+  ]
+}
