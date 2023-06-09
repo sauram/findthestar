@@ -1,5 +1,8 @@
 import React from "react";
 function UserPanel({ user, onClosePanel }) {
+    if (!user) {
+      return null; // Add a check for null value and return null if user is null
+    }
     return (
       <div className="fixed inset-0 flex justify-center items-center bg-black bg-opacity-50">
         <div className="bg-white rounded-lg shadow-lg max-w-lg p-4 relative">
